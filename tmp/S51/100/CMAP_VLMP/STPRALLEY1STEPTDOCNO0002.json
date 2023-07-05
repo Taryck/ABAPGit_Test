@@ -1,1 +1,0 @@
-{"MANDT":"100","CTXT":"STPRALLEY1","ATMP":"STEPTDOCNO","PRRTY":2,"VLSRC":"^(.*)-([^_]*)_(.*)_([^_]*).[Mm][Oo][Dd][Ee][Ll]$","RGEXP":"X","VLTGT":"$1-$2_..._$4"}
